@@ -1,0 +1,30 @@
+C:\Users\hufo_\Documents\CFT San Agustin\Programacion 1\Codigos_Csharp\Ambicioso\Ambicioso\bin\Debug\net6.0\Ambicioso.exe
+C:\Users\hufo_\Documents\CFT San Agustin\Programacion 1\Codigos_Csharp\Ambicioso\Ambicioso\bin\Debug\net6.0\Ambicioso.deps.json
+C:\Users\hufo_\Documents\CFT San Agustin\Programacion 1\Codigos_Csharp\Ambicioso\Ambicioso\bin\Debug\net6.0\Ambicioso.runtimeconfig.json
+C:\Users\hufo_\Documents\CFT San Agustin\Programacion 1\Codigos_Csharp\Ambicioso\Ambicioso\bin\Debug\net6.0\Ambicioso.dll
+C:\Users\hufo_\Documents\CFT San Agustin\Programacion 1\Codigos_Csharp\Ambicioso\Ambicioso\bin\Debug\net6.0\Ambicioso.pdb
+C:\Users\hufo_\Documents\CFT San Agustin\Programacion 1\Codigos_Csharp\Ambicioso\Ambicioso\obj\Debug\net6.0\Ambicioso.csproj.AssemblyReference.cache
+C:\Users\hufo_\Documents\CFT San Agustin\Programacion 1\Codigos_Csharp\Ambicioso\Ambicioso\obj\Debug\net6.0\Ambicioso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hufo_\Documents\CFT San Agustin\Programacion 1\Codigos_Csharp\Ambicioso\Ambicioso\obj\Debug\net6.0\Ambicioso.AssemblyInfoInputs.cache
+C:\Users\hufo_\Documents\CFT San Agustin\Programacion 1\Codigos_Csharp\Ambicioso\Ambicioso\obj\Debug\net6.0\Ambicioso.AssemblyInfo.cs
+C:\Users\hufo_\Documents\CFT San Agustin\Programacion 1\Codigos_Csharp\Ambicioso\Ambicioso\obj\Debug\net6.0\Ambicioso.csproj.CoreCompileInputs.cache
+C:\Users\hufo_\Documents\CFT San Agustin\Programacion 1\Codigos_Csharp\Ambicioso\Ambicioso\obj\Debug\net6.0\Ambicioso.dll
+C:\Users\hufo_\Documents\CFT San Agustin\Programacion 1\Codigos_Csharp\Ambicioso\Ambicioso\obj\Debug\net6.0\refint\Ambicioso.dll
+C:\Users\hufo_\Documents\CFT San Agustin\Programacion 1\Codigos_Csharp\Ambicioso\Ambicioso\obj\Debug\net6.0\Ambicioso.pdb
+C:\Users\hufo_\Documents\CFT San Agustin\Programacion 1\Codigos_Csharp\Ambicioso\Ambicioso\obj\Debug\net6.0\Ambicioso.genruntimeconfig.cache
+C:\Users\hufo_\Documents\CFT San Agustin\Programacion 1\Codigos_Csharp\Ambicioso\Ambicioso\obj\Debug\net6.0\ref\Ambicioso.dll
+D:\Clases S.A\Temporada 4 Final de Stage\Implementación y Mantención de Software\Prueba 2\Tarea\Ambicioso\Ambicioso\bin\Debug\net6.0\Ambicioso.exe
+D:\Clases S.A\Temporada 4 Final de Stage\Implementación y Mantención de Software\Prueba 2\Tarea\Ambicioso\Ambicioso\bin\Debug\net6.0\Ambicioso.deps.json
+D:\Clases S.A\Temporada 4 Final de Stage\Implementación y Mantención de Software\Prueba 2\Tarea\Ambicioso\Ambicioso\bin\Debug\net6.0\Ambicioso.runtimeconfig.json
+D:\Clases S.A\Temporada 4 Final de Stage\Implementación y Mantención de Software\Prueba 2\Tarea\Ambicioso\Ambicioso\bin\Debug\net6.0\Ambicioso.dll
+D:\Clases S.A\Temporada 4 Final de Stage\Implementación y Mantención de Software\Prueba 2\Tarea\Ambicioso\Ambicioso\bin\Debug\net6.0\Ambicioso.pdb
+D:\Clases S.A\Temporada 4 Final de Stage\Implementación y Mantención de Software\Prueba 2\Tarea\Ambicioso\Ambicioso\obj\Debug\net6.0\Ambicioso.csproj.AssemblyReference.cache
+D:\Clases S.A\Temporada 4 Final de Stage\Implementación y Mantención de Software\Prueba 2\Tarea\Ambicioso\Ambicioso\obj\Debug\net6.0\Ambicioso.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clases S.A\Temporada 4 Final de Stage\Implementación y Mantención de Software\Prueba 2\Tarea\Ambicioso\Ambicioso\obj\Debug\net6.0\Ambicioso.AssemblyInfoInputs.cache
+D:\Clases S.A\Temporada 4 Final de Stage\Implementación y Mantención de Software\Prueba 2\Tarea\Ambicioso\Ambicioso\obj\Debug\net6.0\Ambicioso.AssemblyInfo.cs
+D:\Clases S.A\Temporada 4 Final de Stage\Implementación y Mantención de Software\Prueba 2\Tarea\Ambicioso\Ambicioso\obj\Debug\net6.0\Ambicioso.csproj.CoreCompileInputs.cache
+D:\Clases S.A\Temporada 4 Final de Stage\Implementación y Mantención de Software\Prueba 2\Tarea\Ambicioso\Ambicioso\obj\Debug\net6.0\Ambicioso.dll
+D:\Clases S.A\Temporada 4 Final de Stage\Implementación y Mantención de Software\Prueba 2\Tarea\Ambicioso\Ambicioso\obj\Debug\net6.0\refint\Ambicioso.dll
+D:\Clases S.A\Temporada 4 Final de Stage\Implementación y Mantención de Software\Prueba 2\Tarea\Ambicioso\Ambicioso\obj\Debug\net6.0\Ambicioso.pdb
+D:\Clases S.A\Temporada 4 Final de Stage\Implementación y Mantención de Software\Prueba 2\Tarea\Ambicioso\Ambicioso\obj\Debug\net6.0\Ambicioso.genruntimeconfig.cache
+D:\Clases S.A\Temporada 4 Final de Stage\Implementación y Mantención de Software\Prueba 2\Tarea\Ambicioso\Ambicioso\obj\Debug\net6.0\ref\Ambicioso.dll
